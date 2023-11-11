@@ -1,2 +1,2 @@
 # PianoGuide
-This program creates a website in which the user can learn the fundamentals of piano. 
+This program creates a website using HTML/CSS in which the user can learn the fundamentals of piano.
